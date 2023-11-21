@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(8, 43, 55);
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: rgb(208, 198, 12);
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+h1 {
+  color: rgb(154, 61, 61);
+  text-align: center;
+  font-size: 111px;
+  font-family: courier;
+}
+
+p1 {
+  color: rgb(31, 101, 74);
+  text-align: center;
+  font-family: verdana;
+  font-size: 43px;
+}
+
+div {
+  padding-top: 50px;
+  border: 15px solid rgb(28, 0, 128);
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+p2 {
+  color: rgb(119, 44, 144);
+  text-align: center;
+  font-family: Copperplate;
+  font-size: 31px;
+}
+
